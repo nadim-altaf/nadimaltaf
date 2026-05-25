@@ -1,7 +1,7 @@
-<h2 align="center">Hi, I'm Nadim Altaf 👋</h2>
+<h1 align="center">Hi, I'm Nadim Altaf 👋</h1>
 
 <p align="center">
-  B.Tech CSE · Data Science & ML Learner · Aspiring AI Engineer
+  B.Tech CSE Student • Data Science & ML Learner • Aspiring AI Engineer
 </p>
 
 <p align="center">
@@ -15,15 +15,16 @@
 
 ---
 
-**About me**
+## 🚀 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering
-- 🤖 Focused on Data Science, Machine Learning & AI
+- 🤖 Interested in Data Science, Machine Learning, and AI
+- 📚 Currently improving problem-solving and project-building skills
 - 🎯 Goal: Become a skilled Data Scientist / AI-ML Engineer
 
 ---
 
-**Tech Stack**
+## 🛠️ Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,postgres" height="40"/>
@@ -39,7 +40,7 @@
 
 ---
 
-**GitHub Stats**
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nadim-altaf&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
